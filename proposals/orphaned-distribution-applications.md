@@ -1,6 +1,7 @@
 ## Objective
 
-Provide clarity about ownership and maintenance of services which are currently orphaned.
+Provide clarity about ownership and maintenance of applications which are currently
+orphaned and primarily used by distributions of Kubeflow.
 
 ## Motivation
 
